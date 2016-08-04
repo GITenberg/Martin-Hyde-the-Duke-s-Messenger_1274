@@ -1,0 +1,28 @@
+_repo: Martin-Hyde-the-Duke-s-Messenger_1274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masefield, John
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '582'
+    url: http://www.gutenberg.org/2009/agents/582
+    wikipedia: http://en.wikipedia.org/wiki/John_Masefield
+description: After his father's death in 1685, 12-year-old Martin goes to London to
+  live with his uncle. Through circumstances he becomes messenger for James Scott,
+  Duke of Monmouth, as the Duke garners support for his claim to succede Charles II
+  as King of England.
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monmouth, James Scott, Duke of, 1649-1685 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Martin Hyde, the Duke's Messenger
+url: http://www.gutenberg.org/ebooks/1274
